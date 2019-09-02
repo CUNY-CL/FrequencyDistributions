@@ -18,11 +18,11 @@ can ingest these files and produce useful descriptive statistics.
 * English News Crawl, 2017:
   - [Token frequencies](news.2017-1.tsv)
 * English syntax from the Wall St. Journal portion of the [Penn Treebank](https://catalog.ldc.upenn.edu/LDC99T42):
-  - [Word/language-specific POS tag frequencies ("emission frequencies")](wsj-emission.tsv)
-  - [Binarized, lexicalized (v = 1, h = 1) CFG rule frequencies ("production rule frequencies")](wsj-production.tsv)
+  - [Word/language-specific POS tag frequencies](wsj-emission.tsv) ("emission frequencies")
+  - [Binarized, lexicalized (v = 1, h = 1) CFG rule frequencies](wsj-production.tsv) ("production rule frequencies")
 * English syntax from the [English Web Treebank](https://catalog.ldc.upenn.edu/LDC2012T13):
   - [Word/dependency relation pair frequencies](en_ewt-form-deprel.tsv)
-  - [Word/headword pair frequencies ("bilexical dependency frequencies")](en_ewt-form-head-form.tsv)
+  - [Word/headword pair frequencies](en_ewt-form-head-form.tsv) ("bilexical dependency frequencies")
   - [Word/head universal POS tag pair frequencies](en_ewt-form-head-upos.tsv)
   - [universal POS tag/headword pair frequencies](en_ewt-upos-head-form.tsv)
 * Czech morphology from [Prague Dependency Treebank](https://ufal.mff.cuni.cz/pdt3.0):
