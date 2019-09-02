@@ -14,7 +14,7 @@ can ingest these files and produce useful descriptive statistics.
     [graph](graph/dril.png)
 * Yahoo! Horoscopes, 2010:
   - Token unigram
-    [frequencies](frequencies/horoscpes-1.tsv),
+    [frequencies](frequencies/horoscopes-1.tsv),
     [summary](summary/horoscopes-1.txt),
     [graph](graph/horoscopes-1.png)
   - Token bigram
